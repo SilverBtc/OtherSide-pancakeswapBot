@@ -50,4 +50,5 @@ ou
     ```
 
 Le bot commencera à surveiller la liquidité de la crypto-monnaie spécifiée et achètera automatiquement dès que la liquidité minimale requise sera disponible.
+
 Pour couper le bot faite simplement : ctrl + c
